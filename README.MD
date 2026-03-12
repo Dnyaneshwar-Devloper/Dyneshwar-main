@@ -11,14 +11,14 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Dyneshwar Gajanan Surve, Data Analyst/SQL Developer 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently a Undergraudate  student.
   <br />
-  💻 I love to learn new technologies and frameworks.
+  💻 I love to learn new technologies and tools.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  🧑‍💼 I’m currently a freelancer working as a Data Analyst
   <br />
 </p>
 
