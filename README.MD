@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+<img align="right" src="https://komarev.com/ghpvc/?username=Dyneshwar">
 
 <!-- introduction -->
 <h1 align="center">
