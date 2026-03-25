@@ -105,7 +105,7 @@
   </picture>
 
   <!-- github stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar&show_icons=true&theme=react&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar&show_icons=true&theme=default&border_color=61dafb" />
