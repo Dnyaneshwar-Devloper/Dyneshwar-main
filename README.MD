@@ -93,35 +93,40 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align=center>
+
 <!-- first row -->
-  <div align=center>
+<div align=center>
+
   <!-- streak stats -->
-<!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">  -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
-      </picture>
-    </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Dnyaneshwar&theme=react&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Dnyaneshwar&theme=default&border=61dafb" />
+    <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=Dnyaneshwar&theme=default&border=61dafb" alt="Dnyaneshwar's streak stats" />
+  </picture>
+
   <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- spaces -->
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar&show_icons=true&theme=react&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar&show_icons=true&theme=default&border_color=61dafb" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar&show_icons=true&theme=default&border_color=61dafb" alt="Dnyaneshwar's github stats" />
     </picture>
   </a>
+
+</div>
+
+<!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+<!-- contribution graph -->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar&theme=react-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Dnyaneshwar's contribution graph" />
+  </picture>
+</a>
+
 </p>
 
 <hr />
