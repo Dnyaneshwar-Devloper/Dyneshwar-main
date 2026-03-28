@@ -103,14 +103,20 @@
     <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=Dnyaneshwar&theme=default&border=61dafb" alt="Dnyaneshwar's streak stats" />
   </picture>
 
-  <!-- github stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar&show_icons=true&theme=react&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar&show_icons=true&theme=default&border_color=61dafb" />
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar&show_icons=true&theme=default&border_color=61dafb" alt="Dnyaneshwar's github stats" />
-    </picture>
-  </a>
+ <!-- github stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=react&hide_border=true" />
+    
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=default&border_color=61dafb" />
+    
+    <img align="right" width="390" 
+      src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=default&border_color=61dafb" 
+      alt="Dnyaneshwar's github stats" />
+  </picture>
+</a>
 
 </div>
 
