@@ -171,3 +171,7 @@
 <h4 align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper?tab=repositories">🔎 Show More 🔍</a>
 </h4>
+<!-- FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer"/>
+</p>
